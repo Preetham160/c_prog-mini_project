@@ -25,3 +25,5 @@ gcc -std=c11 -Wall -Wextra -O2 main.c -o graphics_editor
 - The canvas size is `25 x 60`.
 - Shapes are stored as objects and redrawn on demand.
 - Each object has an ID so it can be deleted or modified later.
+
+# c_prog-mini_project
