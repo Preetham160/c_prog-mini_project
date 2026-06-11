@@ -53,3 +53,8 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+demo_input.txt
+graph_input.txt
+test_canvas
+test_canvas.c
