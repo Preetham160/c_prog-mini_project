@@ -58,5 +58,5 @@ dkms.conf
 
 test_canvas.c
 test_canvas
-graphic_editor
+graphics_editor
 main
