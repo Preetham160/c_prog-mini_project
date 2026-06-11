@@ -54,7 +54,9 @@ dkms.conf
 # debug information files
 *.dwo
 
-demo_input.txt
-graph_input.txt
-test_canvas
+*.txt
+
 test_canvas.c
+test_canvas
+graphic_editor
+main
